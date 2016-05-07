@@ -7,7 +7,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'force_bind_rbx'
-  spec.version       = '1.0.0'
+  spec.version       = '1.1.0'
   spec.authors       = ['Nathan Currier']
   spec.email         = ['nathan.currier@gmail.com']
   spec.license       = 'MPL-2.0'
