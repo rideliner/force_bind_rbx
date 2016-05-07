@@ -7,19 +7,4 @@
 
 source 'https://rubygems.org'
 
-gemspec path: __dir__
-
-group :development do
-  gem 'rake', require: false
-
-  # lint
-  gem 'rubocop', '>= 0.36.0', require: false
-
-  # test
-  gem 'minitest', require: false
-  gem 'simplecov', require: false
-
-  # doc
-  gem 'yard', require: false
-  gem 'kramdown', require: false
-end
+gemspec
